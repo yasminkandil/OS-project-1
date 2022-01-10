@@ -217,7 +217,7 @@ int main()
         cin >> again;
         system("cls");
         pageFaults = 0;
-        pageHit = 0;
+        pageHit=0;
     }
 
     while (again == 1);
